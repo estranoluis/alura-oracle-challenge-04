@@ -4,7 +4,7 @@ Eccomerce Geek Alura
 
 Json Server By JulianDevz
 
-https://catmasterx.github.io/Alura-Challenge-Geek-ecommerce/
+https://estranoluis.github.io/alura-oracle-challenge-04
 
 user : admin
 
